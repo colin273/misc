@@ -8,7 +8,7 @@
         content: url("https://i.imgur.com/jgMTSrD.png")
     }
 
-    [class="has-background-white-ter"] {
+    .search .has-background-white-ter {
         background-color: #17181c !important
     }
 }
