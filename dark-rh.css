@@ -1,5 +1,5 @@
 @media (prefers-color-scheme: dark) {
-    .navbar .navbar-start>.navbar-item, .navbar .navbar-start .navbar-link, .navbar .navbar-start>a.navbar-item:hover, .navbar .navbar-start>a.navbar-item.is-active, .navbar .navbar-start .navbar-link:hover, .navbar .navbar-start .navbar-link.is-active, .navbar .navbar-end>.navbar-item, .navbar .navbar-end .navbar-link, .navbar .navbar-end>a.navbar-item:hover, .navbar .navbar-end>a.navbar-item.is-active, .navbar .navbar-end .navbar-link:hover, .navbar .navbar-end .navbar-link.is-active {
+    a, .navbar .navbar-start>.navbar-item, .navbar .navbar-start .navbar-link, .navbar .navbar-start>a.navbar-item:hover, .navbar .navbar-start>a.navbar-item.is-active, .navbar .navbar-start .navbar-link:hover, .navbar .navbar-start .navbar-link.is-active, .navbar .navbar-end>.navbar-item, .navbar .navbar-end .navbar-link, .navbar .navbar-end>a.navbar-item:hover, .navbar .navbar-end>a.navbar-item.is-active, .navbar .navbar-end .navbar-link:hover, .navbar .navbar-end .navbar-link.is-active {
         color: #b5b5b5 !important;
     }
 
