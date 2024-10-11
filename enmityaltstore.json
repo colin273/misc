@@ -30,8 +30,7 @@
           "com.apple.developer.storekit.request-data",
           "com.apple.developer.associated-domains",
           "com.apple.security.application-groups",
-          "com.apple.developer.usernotifications.communication",
-          "com.apple.developer.kernel.increased-memory-limit"
+          "com.apple.developer.usernotifications.communication"
         ],
         "privacy": {
           "NSBluetoothAlwaysUsageDescription": "To connect to your devices",
